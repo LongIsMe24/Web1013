@@ -1,6 +1,14 @@
 * {
   box-sizing: border-box;
 }
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px / 1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 .boxcenter {
   width: 1200px;
   margin: 0 auto;
